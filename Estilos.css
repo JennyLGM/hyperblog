@@ -1,3 +1,21 @@
 body {
-  color: red;
+  background-color: rgb(167, 97, 97);
+}
+
+header{
+  color: black;
+  border: 2px solid black;
+  height: 20px;
+  width: 400px;
+  text-align: center;
+  text-transform: capitalize;
+font-weight: bolder;
+}
+
+.contenido1{
+  margin-top: 20px;
+  border: 2px solid black;
+  height: 100px;
+  width: 400px;
+  text-align: center;
 }

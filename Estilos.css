@@ -6,16 +6,17 @@ header{
   color: black;
   border: 2px solid black;
   height: 20px;
-  width: 400px;
+  width: 600px;
   text-align: center;
   text-transform: capitalize;
 font-weight: bolder;
 }
 
 .contenido1{
-  margin-top: 20px;
-  border: 2px solid black;
+  margin-top: 0px;
+  border: 2px solid rgb(228, 220, 220);
   height: 100px;
-  width: 400px;
+  width: 600px;
   text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
